@@ -2,7 +2,8 @@
 NAME	=	convert
 
 SRC	=	main.c \
-		atoi.c 
+		atoi.c \
+		convert.c 
 
 INC_DIR	=	include
 
