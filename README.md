@@ -1,5 +1,11 @@
 For convert number base 10 to HEX and BIN.
 
+First step (one time)
+
+make re && make fclean
+
+After : 
+
 Usage : ./convert [number_base_10]
 
 Exemple :
